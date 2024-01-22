@@ -1,0 +1,57 @@
+body{
+    background-color: black;
+/*margin: 60px;*/
+ margin-left: 60px;
+ margin-right: 15px;
+margin-top: 30px;
+    margin-bottom: 30px;
+  text-align: center;
+}
+p{
+    color: green;
+
+}
+.one{
+    color: blue;
+    border: red 2px solid;
+    border-radius: 15px;
+
+}
+u{
+    padding: 3px;
+}
+
+.two{
+    color: darkslateblue;
+    font-size: 35px ;
+
+}
+
+
+.b{
+    font-size: 25px ;
+}
+
+.three{
+    font-size: 25px ;
+}
+
+.pic{
+    border-radius: 70px 0px 70px 0px  ;
+}
+
+/*#one{*/
+/*    background-color: lightgreen;*/
+/*    */
+/*}*/
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+#one{
+    background-color: lightgreen;
+}
+
+#two{
+    background-color: red;
+}#three{
+    background-color: yellow;
+    border-radius: 25px;
+
+ }
+ #four{
+     background-image: url("images/premium_photo-1697729856847-ae499843242f.avif ");
+width: 100%;
+ }
